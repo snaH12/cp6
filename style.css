@@ -5,7 +5,35 @@
   color: #6c6b6b;
 }
 
-a {
-  text-decoration: none;
+
+.visual1{
+    background-image: url(img/box1.jpg);
+    width:100%;
+    height:200px;
+    background-size: cover;
+    background-position: center;
 }
 
+.visual2{
+    background-image: url(img/box2.jpg);
+    width:100%;
+    height:200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.visual3{
+    background-image: url(img/box3.jpg);
+    width:100%;
+    height:200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.visual4{
+    background-image: url(img/box4.jpg);
+    width:100%;
+    height:200px;
+    background-size: cover;
+    background-position: center;
+}
